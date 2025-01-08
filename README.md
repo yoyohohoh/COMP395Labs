@@ -1,1 +1,1 @@
-COMP 395 Simulation Design
+COMP 395 Simulation Design: Labs
